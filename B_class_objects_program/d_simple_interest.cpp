@@ -1,3 +1,4 @@
+// program to display simple interest by taking principle, rate and time form user.
 #include <iostream> 
 using namespace std;
 class siptr

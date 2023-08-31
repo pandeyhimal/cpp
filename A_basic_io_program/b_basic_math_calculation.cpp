@@ -1,3 +1,4 @@
+// program to display mathmetical operation using pop method.
 #include<iostream>
 using namespace std;
 int main()

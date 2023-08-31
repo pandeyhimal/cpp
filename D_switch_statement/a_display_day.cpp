@@ -1,3 +1,4 @@
+//program to display name of day using integer data types.
 #include<iostream>
 using namespace std;
 

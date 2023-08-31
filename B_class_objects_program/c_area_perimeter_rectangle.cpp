@@ -1,3 +1,4 @@
+//program to take length and breadth from user and display area and perimeter of rectangle.
 #include<iostream>
 using namespace std;
 class apr

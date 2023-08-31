@@ -1,3 +1,4 @@
+//program to display name using oop method.
 #include<iostream> 
 using namespace std;
 class cls

@@ -1,3 +1,4 @@
+// basic program to display simple interest using pop method.
 #include<iostream>
 using namespace std;
 int main()

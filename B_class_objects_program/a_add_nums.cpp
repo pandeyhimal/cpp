@@ -1,3 +1,4 @@
+//program to display sum of two numbers in oop.
 #include<iostream>
 using namespace std;
 class nums
