@@ -11,3 +11,6 @@ C_controlstatement_usingoop/a_stdresult.exe
 D_switch_statement/a_display_day.exe
 D_switch_statement/b_display_day_using_character.exe
 D_switch_statement/c_calculation_using_operator.exe
+CW_evennum_using_diff_source/a_using_forloop.exe
+CW_evennum_using_diff_source/b_using_whileloop.exe
+CW_evennum_using_diff_source/c_using_dowhile_loop.exe
